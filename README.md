@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
