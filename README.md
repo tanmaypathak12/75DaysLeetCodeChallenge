@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Tree
