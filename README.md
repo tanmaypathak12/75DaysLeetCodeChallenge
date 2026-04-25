@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0553-optimal-division](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0643-maximum-average-subarray-i](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0507-perfect-number) |
+| [0553-optimal-division](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0553-optimal-division](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 ## Sliding Window
 |  |
 | ------- |
