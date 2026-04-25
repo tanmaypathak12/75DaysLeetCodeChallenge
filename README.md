@@ -231,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0584-find-customer-referee) |
 | [0619-biggest-single-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0619-biggest-single-number) |
+| [1084-sales-analysis-iii](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/1084-sales-analysis-iii) |
 <!---LeetCode Topics End-->
