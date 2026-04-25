@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
+| [0371-sum-of-two-integers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
