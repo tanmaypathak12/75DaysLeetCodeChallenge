@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sliding Window
 |  |
@@ -239,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1084-sales-analysis-iii](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/1084-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/1327-list-the-products-ordered-in-a-period) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
