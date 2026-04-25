@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0171-excel-sheet-column-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -254,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
