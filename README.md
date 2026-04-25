@@ -223,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
