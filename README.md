@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
