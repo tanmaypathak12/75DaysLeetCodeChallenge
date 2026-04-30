@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
