@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
