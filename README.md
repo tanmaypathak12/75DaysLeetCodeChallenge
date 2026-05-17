@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
