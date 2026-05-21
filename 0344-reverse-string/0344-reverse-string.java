@@ -1,30 +1,18 @@
-	class Solution {
+class Solution {
 
-        	    public void reverseString(char[] s) {
+    public void reverseString(char[] s) {
 
-                	        int n = s.length;
+        int left = 0;
+        int right = s.length - 1;
 
-                            	        char[] T = new char[n];
+        while(left < right) {
 
-                                        	        for (int i = n - 1; i >= 0; i--) {
+            char temp = s[left];
+            s[left] = s[right];
+            s[right] = temp;
 
-                                                    	            T[n - 1 - i] = s[i];
-
-                                                                    	        }
-
-                                                                                	        for (int i = 0; i < n; i++) {
-
-                                                                                            	            s[i] = T[i];
-
-                                                                                                            	        }
-
-                                                                                                                        	    }
-
-                                                                                                                                	}
-
-                                                                                                                                    	// Time: O(n)
-
-                                                                                                                                        	// Space: O(n)
-
-                                                                                                                                            	 
-    
+            left++;
+            right--;
+        }
+    }
+}
