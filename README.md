@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
+| [0746-min-cost-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
 | ------- |
