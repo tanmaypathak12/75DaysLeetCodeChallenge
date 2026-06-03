@@ -1,26 +1,16 @@
-//brute force 
-//class Solution {
-  //   public int fib(int n) {
-   //if (n <= 1) {
-     //    return n;
-       //      }
-  //return fib(n - 1) + fib(n - 2);
-                                          //      }
-  
-  
-                                            //    }
-    //Memoization                                     
 class Solution {
-int[] dp = new int[31];
-public int fib(int n) {
- if (n <= 1) {
-  return n;
- }
-   if (dp[n] != 0) {
-    return dp[n];
-   }
-     dp[n] = fib(n - 1) + fib(n - 2);
+  public int fib(int n) {
+    if (n < 2)
+      return n;
 
-        return dp[n];
-}}
-                                                                                              
+    int[] dp = {0, 0, 1};
+
+    for (int i = 2; i <= n; ++i) {
+      dp[0] = dp[1];
+      dp[1] = dp[2];
+      dp[2] = dp[0] + dp[1];
+    }
+
+    return dp[2];
+  }
+}
