@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
 | [0746-min-cost-climbing-stairs](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
