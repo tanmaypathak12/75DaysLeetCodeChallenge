@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0553-optimal-division) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Two Pointers
 |  |
 | ------- |
@@ -457,4 +460,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+## Geometry
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Number Theory
+|  |
+| ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 <!---LeetCode Topics End-->
