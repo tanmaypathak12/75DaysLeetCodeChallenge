@@ -484,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tanmaypathak12/75DaysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
